@@ -5,5 +5,5 @@ My girlfriend, Xue, took a lot of pictures via a scan software. But the names of
 ## Solutions:
 I found if I can rename the picture with '13_20_34_9', '13_20_34_21' and '15_07_15_147', the pictures can be reordered with the names. So what I did is change the names of there 700+ photos via python.
 
-# To be improved:
+## To be improved:
 With three kind of lengths of names, I put them into three different floders, and I wrote three loop for these pictures. Maybe I can wrote a 'if len() ==' to change names with different code.
